@@ -3,7 +3,7 @@ I am a programmer specializing in ML/DL who has inspiration toward artificial in
 I mainly use Python for development. For the supplementary matters I deploy programs along with C, C++,and Java.
 My main interest of reseach is object detection belong to AI algorithms. I am always happy to discuss about related topics that could improve both simultaneously.
 Here is my contact information that you could reach me out if the code has malfunctionalities. 
--E-mail: taegue52@daum.net
+###E-mail: taegue52@daum.net
 
 
 <!---
