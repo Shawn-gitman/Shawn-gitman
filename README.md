@@ -3,7 +3,7 @@ Hello, this is TaeKyu Kang from South Korea. Shawn is the another name you can c
 I am a programmer specializing in ML/DL who has inspiration toward artificial intelligence. 
 I mainly use Python for development. For the supplementary matters I deploy programs along with C, C++,and Java.
 My major interest of reseach is object detection belong to AI algorithms. I am always happy to discuss about related topics that could improve both simultaneously.
-Here is my contact information that you could reach me out if the code malfunctions(E-mail: taegue52@daum.net, available at any time)
+Here is my contact information that you could reach me out if you have feedbacks regarding my confering solutions(E-mail: taegue52@daum.net, available at any time)
 
 
 <!---
